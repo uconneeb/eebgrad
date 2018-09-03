@@ -1,4 +1,4 @@
-# E. E. B. Grad
+{{ "faceresearch-org-demos-average.png" | absolute_url }}){:.right-image}# E. E. B. Grad
 Welcome to my professional web site!
 
 ## About Me
