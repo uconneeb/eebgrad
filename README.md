@@ -1,4 +1,4 @@
-![Image of E. E. B. Grad](https://eebgrad.github.io/faceresearch-org-demos-average.png)
+<img src="faceresearch-org-demos-average.png" height="200" align="right">
 # E. E. B. Grad
 Welcome to my professional web site!
 
