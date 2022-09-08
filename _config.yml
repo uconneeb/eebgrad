@@ -1,3 +1,10 @@
-theme: jekyll-theme-primer
+theme: minima
 title: E. E. B. Grad
+email: eebgrad@uconn.edu
 description: Welcome to my professional web site!
+
+header_pages:
+   - about.md
+   - contact.md
+
+twitter_username: uconneeb
