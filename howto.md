@@ -1,5 +1,6 @@
 ---
 title: How to make a GitHub Pages site
+permalink: /eebgrad/howto/
 layout: default
 ---
 ## How to set up a simple GitHub pages web site
