@@ -7,7 +7,7 @@ I am a fictitious graduate student in the [UConn EEB department](https://eeb.uco
 
 That photo of me below is a blend of 4 male and 4 female faces from diverse ethnicities using tools on the [faceresearch.org](https://faceresearch.org) web site.
 
-![Image of E. E. B. Grad](/assets/images/headshot.png "Photo of E. E. B. Grad")
+![Image of E. E. B. Grad](/assets/images/headshot.png)
 
 ### How this web site was created
 
