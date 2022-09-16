@@ -11,6 +11,6 @@ That photo of me below is a blend of 4 male and 4 female faces from diverse ethn
 
 ### How this web site was created
 
-I've created [some instructions](howto) (last updated Fall 2022) for how to create a basic web site like this using GitHub Pages.
+I've created some [instructions](/eebgrad/howto/) (last updated Fall 2022) for how to create a basic web site like this using GitHub Pages.
 
 [Back to Home](/)
