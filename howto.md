@@ -1,6 +1,6 @@
 ---
 title: How to make a GitHub Pages site
-permalink: /howto/
+permalink: /eebgrad/howto/
 layout: default
 ---
 ## How to set up a simple GitHub pages web site
@@ -222,7 +222,6 @@ Put some text in the _about.md_ file after you create it. Here is the text that 
 
     ---
     title: About
-    permalink: /about/
     layout: default
     ---
 
@@ -230,21 +229,14 @@ Put some text in the _about.md_ file after you create it. Here is the text that 
 
     That photo of me below is a blend of 4 male and 4 female faces from diverse ethnicities using tools on the [faceresearch.org](https://faceresearch.org) web site.
 
-    ![Image of E. E. B. Grad](assets/images/headshot.png "Photo of E. E. B. Grad")
-    
-    ### How this web site was created
-    
-    I've created [some instructions](/howto/) (last updated Fall 2022) for how to create a basic web site like this using GitHub Pages.
-    
+    ![Image of E. E. B. Grad](/assets/images/headshot.png)
+        
     [Back to Home](/)
-
-Note that we've added a permalink to the frontmatter. This says that to get to this page, just add _/about/_ to the primary url. A permalink can make your URLs much simpler, especially if your markdown file is several layers below the root in your directory structure.
 
 Put something similar to the following text in the _contact.md_ file after you create it, being sure that the first four lines are not modifed:
 
     ---
     title: Contact
-    permalink: /contact/
     layout: default
     ---
 
@@ -272,6 +264,18 @@ Be sure to commit these files.
 * [GitHub Markdown Guide](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 * [Markdown Cheat Sheet](https://www.markdownguide.org/cheat-sheet/)
 * [Liquid Tags](https://shopify.dev/api/liquid/tags)
+
+### Permalinks
+
+It is easy to add a permalink to a page in the frontmatter. For example,
+
+    {% raw %}---
+    title: Contact Information
+    permalink: /contact/
+    layout: default
+    ---{% endraw %}
+
+If your website url is <code>https://xxxx.github.io/</code>, then the permalink we've specified means this page can be found using the url <code>https://xxxx.github.io/contact/</code>, regardless of the name of the file that this frontmatter is in.
 
 ### Comments
 
