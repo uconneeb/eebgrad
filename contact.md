@@ -15,11 +15,10 @@ Postal address (using code formatting):
 
 Postal address (using table formatting): 
 
-| :------- |
-| E. E. B. Grad <br/>
+E. E. B. Grad <br/>
 Department of Ecology and Evolutionary Biology <br/>
 University of Connecticut <br/>
 Storrs, CT 06269-3043 <br/>
-U.S.A. |
+U.S.A.
 
 [Back to Home](/)
