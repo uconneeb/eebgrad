@@ -13,7 +13,7 @@ Postal address (using code formatting):
     Storrs, CT 06269-3043
     U.S.A.
 
-Postal address (using table formatting): 
+Postal address (using HTML line breaks): 
 
 E. E. B. Grad <br/>
 Department of Ecology and Evolutionary Biology <br/>
